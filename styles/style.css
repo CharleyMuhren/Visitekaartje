@@ -95,8 +95,8 @@
     display:grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
-      "html-dd js-dd"
-      "html-dt js-dt"
+      "html-dd css-dd"
+      "html-dt css-dt"
       ;
     justify-items:center;
     align-items:start;
@@ -107,7 +107,6 @@
   }
   
   dt{
-    font-weight: bold;
     border-top: 1px solid rgba(0, 0, 0, 0.3);
     padding-top: .25rem;
     margin-top: .25rem;
