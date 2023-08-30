@@ -27,7 +27,7 @@
     box-shadow:0 0 20px 20px rgba(0,0,0,.1);
     border-radius:1rem;
     position: relative;
-    transition: 0.5em;s;
+    transition:.25s;
   }
   
   header {
