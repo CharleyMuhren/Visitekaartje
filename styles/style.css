@@ -99,7 +99,7 @@
       "html-dt css-dt"
       ;
     justify-items:center;
-    align-items:center;
+    align-items:start;
     padding:5rem 0 3rem;
     margin-top: -3rem;
     margin-bottom: 0;
@@ -117,7 +117,7 @@
   
   dd {
     margin:0;
-    padding-left:.3rem;
+    padding-left:.25rem;
     transition:.25s .3s;
   }
   dd:nth-of-type(2){  
