@@ -81,8 +81,8 @@
   }
   
   img {
-    width:15em;
-    border-radius:10em;
+    width:20em;
+    border-radius:15em;
     position:relative;
     top:2rem;
     transition:.25s .15s;
@@ -117,7 +117,7 @@
   
   dd {
     margin:0;
-    padding-left:.25rem;
+    padding-left:.3rem;
     transition:.25s .3s;
   }
   dd:nth-of-type(2){  
