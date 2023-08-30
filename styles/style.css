@@ -9,7 +9,6 @@
   body {
     height:100vh;
     font-family:'Covered By Your Grace', Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 2.5em;
     justify-content:center;
     align-items:center;
     color:#4e102e;
@@ -41,6 +40,7 @@
   }
   
   h1 {
+    font-size: 2.5em;
     margin:2rem 0 1rem;
     color: rgba(0,239,255,1);
   }
