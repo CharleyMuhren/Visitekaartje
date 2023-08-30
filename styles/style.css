@@ -81,7 +81,6 @@
   img {
     width:15em;
     border-radius:10em;
-    border:5px solid #fff;
     position:relative;
     top:2rem;
     transition:.25s .15s;
