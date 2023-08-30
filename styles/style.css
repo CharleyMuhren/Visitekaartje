@@ -110,7 +110,7 @@
   
   dt{
     font-weight: bold;
-    border-top: 1px solid rgba(0,0,0,0.3);
+    border-top: 1px solid rgba(0,0,0,0);
     padding-top: .25rem;
     margin-top: .25rem;
   }
