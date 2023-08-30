@@ -11,7 +11,7 @@
     height:100vh;
     justify-content:center;
     align-items:center;
-    color:#4e102e;
+    color:#000000;
   }
   
   article {
@@ -110,7 +110,7 @@
   
   dt{
     font-weight: bold;
-    border-top: 1px solid rgba(0,0,0,0);
+    border-top: 1px solid rgba(0, 0, 0, 0.3);
     padding-top: .25rem;
     margin-top: .25rem;
   }
