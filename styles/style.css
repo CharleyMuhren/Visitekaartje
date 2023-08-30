@@ -9,7 +9,7 @@
   body {
     height:100vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    justify-content:center;
+    justify-content:left;
     align-items:center;
     color:#4e1033;
   }
