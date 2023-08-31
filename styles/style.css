@@ -126,6 +126,7 @@
   p { 
     margin:0;
     font-size: 1,5em;
+    color: rgb(255,255,255);
   }
   
   article > p {
