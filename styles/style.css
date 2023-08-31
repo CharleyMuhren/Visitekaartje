@@ -54,14 +54,14 @@
     width:2.5rem;
     height:2.5rem;
     transform: scale(.8);
-    background: rgb(249, 182, 11);
+    background: rgb(21, 0, 248);
     border-radius:50%;
     padding:.25rem;
     transition:.25s;
   }
   button:focus {
     outline:none;
-    background:#202592;
+    background:rgb(255, 0, 242);
   }
   button:focus svg {
     stroke: rgba(0,239,255,1);
