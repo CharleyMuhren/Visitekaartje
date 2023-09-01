@@ -8,7 +8,7 @@
   
   body {
     font-family:'Montserrat', sans-serif;
-    font-weight:600;
+    font-weight: 600;
     height:100vh;
     justify-content:center;
     align-items:center;
@@ -95,8 +95,8 @@
     display:grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
-      "html-dd css-dd"
-      "html-dt css-dt"
+      "vt-dt ontwerp-dt"
+      "vt-dd ontwerp-dd"
       ;
     justify-items:center;
     align-items:start;
@@ -111,10 +111,8 @@
     padding-top: .25rem;
     margin-top: .25rem;
   }
-  dt:nth-of-type(1){ grid-area: html-dt; }
-  dt:nth-of-type(2){ grid-area: css-dt; transform: translateY(1rem);}
-  dt:nth-of-type(3){ grid-area: js-dt; }
-  
+  dt:nth-of-type(1){ grid-area: vt-dt; }
+  dt:nth-of-type(2){ grid-area: ontwerp-dt; }
   dd {
     margin:0;
     padding-left:.3rem;
@@ -125,7 +123,7 @@
   }
   
   p { 
-    margin: -1px;;
+    margin:0;
     font-size: 1,5em;
     color: rgb(255,255,255);
   }
